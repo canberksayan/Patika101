@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
-public class FactorialCalculation {
-
+public class  FactorialCalculation {
     public static void main(String[] args) {
 
         int n, r, f, combi, nfac = 1, rfac = 1, cfac = 1;
